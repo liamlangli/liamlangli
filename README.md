@@ -1,5 +1,5 @@
 ### Liam LangLi
-🌱 I’m currently learning ...
+🌱 Code for living...
 
 <!--
 **AngusLang/AngusLang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
